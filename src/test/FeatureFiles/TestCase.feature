@@ -1,6 +1,6 @@
 Feature: ITWORX assignment
 
-  Scenario: The given test case
+  Scenario: Create new course 
     Given User is logged in to WINJIGO website
     When User creates new course
     And User search for the created course
